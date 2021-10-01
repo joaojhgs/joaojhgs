@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joaojhgs
 - 👀 I’m interested in Software development, network infraestructure and cybersecurity
 - 🌱 I’m currently learning C++ and JavaScript
-- 📫 How to reach me> joaosperandio@alunos.utfpr.edu.br
+- 📫 How to reach me: joaosperandio@alunos.utfpr.edu.br
 ##
 <div align="center">
   <a href="https://github.com/rafaballerini">
