@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaojhgs
 - 👀 I’m interested in Software development, network infraestructure and cybersecurity
-- 🌱 I’m currently learning C++ and JavaScript
+- 🌱 I’m currently working with front end Javascript frameworks such as React and NextJs, as well as back end Node, NestJS, Graphql and Prisma.
 - 📫 How to reach me: joaosperandio@alunos.utfpr.edu.br
 ##
 <div align="center">
