@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=joaojhgs&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 👋 Hi, I’m @joaojhgs<br>👀 I’m interested in Software development, network infraestructure and cybersecurity<br>🌱 I’m currently working with front end Javascript frameworks such as React and NextJs, as well as back end Node, NestJS, Graphql and Prisma.<br>📫 How to reach me: joaosperandio@alunos.utfpr.edu.br
 
@@ -7,7 +8,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joaojhgs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaojhgs&theme=dark&hide_border=false)<br/>
-![](<img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaojhgs&layout=compact&theme=dark"/>)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaojhgs&layout=compact&theme=dark"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joaojhgs&icon=0&color=0)](https://visitcount.itsvg.in)
