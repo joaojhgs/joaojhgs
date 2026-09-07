@@ -1,6 +1,13 @@
 [![](https://visitcount.itsvg.in/api?id=joaojhgs&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-👋 Hi, I’m @joaojhgs<br>👀 I’m interested in Software development, network infraestructure and cybersecurity<br>🌱 I’m currently working with front end Javascript frameworks such as React and NextJs, as well as back end Node, NestJS, Graphql and Prisma.<br>📫 How to reach me: joaosperandio@alunos.utfpr.edu.br
+👋 Hi, I'm @joaojhgs<br>🚀 Senior Forward Deployed AI Engineer at Adopt AI — agentic infrastructure, sandboxed code execution, and enterprise deployments<br>🎓 MSc in Informatics at Instituto Politécnico de Bragança (double degree with UTFPR)<br>👀 Interested in distributed systems, applied cryptography, edge AI and cybersecurity<br>🌱 Currently working in Python, Rust and Typescript — LLM orchestration, WebRTC meshes, and Kubernetes<br>📫 How to reach me: joaohenriquegouveia@gmail.com
+
+# 🔭 What I'm building:
+🌐 **[aurora](https://github.com/joaojhgs/aurora)** — privacy-first assistant platform. A peer-to-peer capability mesh where your own devices selectively share speech, LLM and tool capabilities over WebRTC, with per-peer authorization. Typed service contracts drive in-process dispatch, generated FastAPI routes and peer RPC from one declaration. Rust + WASM authority core, seven client surfaces. Subject of my MSc dissertation.
+
+🔐 **[discrypt](https://github.com/joaojhgs/discrypt)** — end-to-end encrypted messaging and voice in Rust. MLS group keys with fork/downgrade/replay detection, SFrame-like AEAD media protection where raw keys never reach JavaScript, and a content-blind relay overlay.
+
+🛡️ **[secure-env-manager](https://github.com/joaojhgs/secure-env-manager)** — OS-level isolation for AI coding agents. LUKS-encrypted Distrobox environments with the host home masked, per-environment SSH keys and browser sessions, and audio/webcam still working.
 
 
 # 💻 Tech Stack:
